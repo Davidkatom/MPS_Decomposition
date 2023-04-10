@@ -1,0 +1,16 @@
+{
+    "Lagos_simplecase_twolayers1": "61e495df6d65085d691a345f|d1098999a79bbe1b271cf0afa7928c03|ibm_lagos|8000",
+    "Lagos_simplecase_twolayers2": "61e49bc59307b9cc746bdfb4|df353ea01cffb9ce1bfccfab93c16f59|ibm_lagos|8000",
+    "Lagos_simplecase_twolayers1_no_optimization": "61e533130a744a736699ecca|18050d3fac45c4e58c465d46878485df|ibm_lagos|8000",
+    "Lagos_simplecase_twolayers2_no_optimization": "61e535d733a1ee41c5f186c7|6925d2ee185506d9309957343a3ee566|ibm_lagos|8000",
+    "Lagos_new_3layers_5qubits (3).h5_before error mitigation": "621a25ce8c4ac839ad688425|fc6fdf97dd2e1dc19856d95c1bb704f1|ibm_lagos|8000",
+    "Lagos_6qubits_not_optimized_part1": "628cc5595ca8b4a41a5beb18|1f2d48ea1414744365d9ea3e6c4385dd|ibm_lagos|8000",
+    "Lagos_6qubits_not_optimized_part2": "628cd32f5ca8b4462c5beb85|cfaed83c319a7f3b262e571461d91473|ibm_lagos|8000",
+    "Lagos_6qubits_not_optimized_part3": "628cd901386b01038f18516e|e014a228d2f881a6201a3d3cdaa4005c|ibm_lagos|8000",
+    "Lagos_6qubits_optimized_part1": "628cc5595ca8b4a41a5beb18|1f2d48ea1414744365d9ea3e6c4385dd|ibm_lagos|8000",
+    "Lagos_6qubits_optimized_part2": "628cd32f5ca8b4462c5beb85|cfaed83c319a7f3b262e571461d91473|ibm_lagos|8000",
+    "Lagos_6qubits_optimized_part3": "628cd901386b01038f18516e|e014a228d2f881a6201a3d3cdaa4005c|ibm_lagos|8000",
+    "jakarta_6qubits_optimized_part1": "628cc5595ca8b4a41a5beb18|1f2d48ea1414744365d9ea3e6c4385dd|ibm_lagos|8000",
+    "jakarta_6qubits_optimized_part2": "628cd32f5ca8b4462c5beb85|cfaed83c319a7f3b262e571461d91473|ibm_lagos|8000",
+    "jakarta_6qubits_optimized_part3": "628cd901386b01038f18516e|e014a228d2f881a6201a3d3cdaa4005c|ibm_lagos|8000"
+}
